@@ -1,0 +1,12 @@
+{
+  "name": "vuln-js",
+  "version": "1.0.0",
+  "description": "Old, known-vulnerable deps for testing Dependabot. Do not use these versions for real.",
+  "dependencies": {
+    "express": "4.16.0",
+    "lodash": "4.17.4",
+    "minimist": "1.2.0",
+    "axios": "0.18.0",
+    "marked": "0.3.6"
+  }
+}
